@@ -11,7 +11,3 @@ Which risk is being illustrated in this scenario?
 
 That’s correct! This chatbot has shown the risk of exposure. In this scenario, sensitive training data was included in the chatbot's outputs, leading to data leaks and privacy violations
 
-
-
-
-
